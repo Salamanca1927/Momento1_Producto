@@ -1,3 +1,4 @@
+#Diego Alejandro Salamanca
 #Crear Menú
 menu = {
     1: {"nombre": "Hamburguesa", "precio": 15000},
